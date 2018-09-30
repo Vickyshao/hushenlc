@@ -1,0 +1,1 @@
+var height=$(".right").height();$(".sidebar").height(height),baguetteBox.run(".baguetteBoxOne");var swiper=new Swiper(".swiper-container",{slidesPerView:2,paginationClickable:!0,spaceBetween:60,freeMode:!0,nextButton:".swiper-button-next",prevButton:".swiper-button-prev"});

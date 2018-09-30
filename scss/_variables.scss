@@ -1,0 +1,52 @@
+body,
+html {
+    font-family: "Microsoft YaHei, Arial";
+    width: 100%;
+    height: 100%;
+    font-size: 14px;
+    -webkit-text-size-adjust: 100%;
+    //-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    overflow-x: hidden;
+}
+
+$bg_black: #27262b;
+$white: #fff;
+$light-white: #c8c8c8;
+$black: #0f0f0f;
+$light-black: #1a1a1a;
+$yellow: #f4ad33;
+$orange: #ff9935;
+$green: #aec302;
+$color3: #333;
+$color6: #666;
+$color9: #999;
+$blue: #00baff;
+$light-blue: #f1f5f8;
+$bluer: #7d8fa2;
+$dark-bluer: #4b5d6f;
+$border: #d4d4d4;
+$dark-grey: #d9d9d9;
+$light-grey: #f6f6f6;
+
+
+
+.container {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.text-center {
+    text-align: center;
+}
+.pa {
+    position: absolute;
+}
+img {
+    max-width: 100%;
+}
+.flex {
+    display: flex;
+}
+.red {
+    color: #ff0000;
+}
